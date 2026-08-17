@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gwx2hb.pulaucuan.org/sitemap.xml
